@@ -21,7 +21,7 @@ Relationship is a comprehensive framework designed to model and manage the core 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/RelationshipProject.git
+git clone https://github.com/cldevdad/relationship.git
 ```
 
 Navigate to the project directory:
